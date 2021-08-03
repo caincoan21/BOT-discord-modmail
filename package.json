@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmaugDev/BOT-discord.git"
+    "url": "git+https://github.com/Smaug6739/BOT-discord.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SmaugDev/BOT-discord/issues"
+    "url": "https://github.com/Smaug6739/BOT-discord/issues"
   },
-  "homepage": "https://github.com/SmaugDev/BOT-discord#readme",
+  "homepage": "https://github.com/Smaug6739/BOT-discord#readme",
   "dependencies": {
     "discord.js": "^12.5.1"
   }
