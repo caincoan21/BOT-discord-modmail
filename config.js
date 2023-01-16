@@ -1,6 +1,7 @@
 module.exports = {
-    TOKEN : "Your token",
-    PREFIX : "/",
+    TOKEN : "Nzg1NDgyMTc2NTI3MDczMjkw.GJnEz1.L64fl2XI1iFSEjqwo3OIaOAOGLJJ71xsCAqXYs
+",
+    PREFIX : "c!",
     emojis : {
         success : '<a:check2:809702921113567263>',
         error : '<a:croix2:809702921113567263>'
@@ -11,5 +12,5 @@ module.exports = {
         categoryId : "<modMailCategory>",
         logsChannel : "<logsModMail>"
     },
-    statut : "DM me for help !"
+    status : "DM me for help !"
 }
